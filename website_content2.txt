@@ -1,0 +1,7 @@
+{
+  "query": [
+    { "text_input": "What is The Nourish Spot?", "output": "The Nourish Spot is a wellness-focused eatery offering smoothies and juices." },
+    { "text_input": "Where is it located?", "output": "It is located in Queens, New York." },
+    { "text_input": "What do they sell?", "output": "They sell smoothies, juices, salads, and wraps." }
+  ]
+}
