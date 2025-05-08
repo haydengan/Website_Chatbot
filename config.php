@@ -1,7 +1,7 @@
 function generate_chat_response( $last_prompt, $conversation_history ) {
 
 // OpenAI API URL and key
-$api_url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDumkNL-gqahJImRsTa8kk87qnQQ0vGB_0';
+$api_url = '';
 $api_key = 'AIzaSyDumkNL-gqahJImRsTa8kk87qnQQ0vGB_0';
 
 // Headers for the OpenAI API
