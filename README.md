@@ -15,9 +15,11 @@ This project implements a custom web-based chatbot for The Nourish Spot, designe
 ⚙️ Fully responsive for both desktop and mobile views
 
 ## Structure Overview
-├──index.html           # Main HTML file containing chatbot UI and scripts
-├──style (inline)       # Scoped styling using CSS variables
+```
+├──index.html           # Main HTML file containing chatbot UI and scripts 
+├──style (inline)       # Scoped styling using CSS variables 
 ├──JavaScript (inline)  # Chat behavior, API calls, DOM manipulation
+```
 
 ## Technologies Used
 HTML, CSS (Custom properties)
