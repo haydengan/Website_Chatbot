@@ -2,17 +2,9 @@
 This project implements a custom web-based chatbot for The Nourish Spot, designed to provide users with quick access to information like menu items, opening hours, contact details, and more — all through an interactive chat interface.
 
 ## Features
-✨ Stylish floating chatbot UI using Lottie animation
-
-🧠 Supports smart Q&A based on preloaded business info
-
-📄 Fully styled with CSS variables for theme customization
-
-📤 AJAX-based API interaction using fetch() for real-time chat
-
-💬 Typing animations, feedback form, copy-to-clipboard, and quick-reply buttons
-
-⚙️ Fully responsive for both desktop and mobile views
+ Stylish floating chatbot UI using Lottie animation
+ Supports smart Q&A based on preloaded business info
+ Fully styled with CSS variables for theme customization
 
 ## Structure Overview
 ```
